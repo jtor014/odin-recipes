@@ -1,2 +1,2 @@
 # odin-recipes
-This is me tryign to make a basic recipe about websites
+This is me trying to make a basic website with three websites
